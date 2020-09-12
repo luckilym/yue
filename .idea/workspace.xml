@@ -10,6 +10,9 @@
   <component name="FavoritesManager">
     <favorites_list name="约跑" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yt48fSKtsoSYb1Y1OO8a5W3kQc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -103,7 +106,7 @@
       <workItem from="1599569771121" duration="2469000" />
       <workItem from="1599810829299" duration="6744000" />
       <workItem from="1599898026532" duration="8648000" />
-      <workItem from="1599908371678" duration="4669000" />
+      <workItem from="1599908371678" duration="5496000" />
     </task>
     <servers />
   </component>
