@@ -1,0 +1,25 @@
+
+{
+  "data": {
+    "joinMax": "10",
+    "clicks": 2393,
+    "content": "",
+    "travelPic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599909094005&di=a2092bf0a334ff837157ea61809c0ba5&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-vo3dSag_xI4khGko9WTAnF6hhy%2Flvpics%2Fh%3D800%2Fsign%3D0982cffa88b1cb1321693113ed5456da%2F8694a4c27d1ed21b33de8af0a86eddc451da3f8b.jpg",
+    "endTime": "3/28/2019, 1:41:00 PM",
+    "joinNum": 0,
+    "joinUser": [
+      "58d88609a22b9d00646ada5f"
+    ],
+    "title": "庐山游",
+    "releaseUsername": "admin",
+    "releaseUserId": "5836c4ea67f3560065f52b5d",
+    "cantJoinTime": "3/16/2019, 1:41:00 PM",
+    "beginTime": "2/28/2019, 1:41:00 PM",
+    "releaseTime": "2019-02-28 13:37:50",
+    "destination": "江西 九江 庐山区 江西省九江市",
+    "objectId": "58b50cae570c350058aaeb25",
+    "createdAt": "2019-02-28T05:37:50.528Z",
+    "updatedAt": "2019-05-08T13:05:22.004Z"
+  },
+  "success": true
+}
